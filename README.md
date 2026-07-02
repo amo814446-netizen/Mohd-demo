@@ -1,4 +1,4 @@
 # Mohd-demo
 this is my first repository.
 <br>
-Auther - Mohd Ahmad
+Auther - Mohd Ahmad Ansari
